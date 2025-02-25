@@ -1,0 +1,10 @@
+print(), - Kuvame ekraanile tekst
+input(), Sisestame info ja edastame tekstina
+float(), 
+int(), - tekst koverteerib arvusse
+upper(),
+lower(), 
+capitalize(), 
+type()
+funktsioonid
+math, random moodulide funktsioonid: pi, round(),randint()
